@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Rồng Bạch Kim - Trang Soi Cầu Lô Đề Uy Tín, Chính Xác
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Rồng Bạch Kim <https://rongbachkimx.com/>`_ là một trang web chuyên hỗ trợ soi cầu lô đề uy tín, được nhiều người chơi tin tưởng nhờ độ chính xác cao. Với các công cụ phân tích và chốt số hôm nay, Rồng Bạch Kim cung cấp những con số may mắn thông qua các phương pháp như soi cầu Rồng Bạch Kim, dàn đề theo tổng, đầu, đuôi, và chạm. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Giao diện thân thiện, dễ sử dụng giúp người chơi dễ dàng tìm kiếm thông tin và kết quả xổ số được cập nhật nhanh chóng. Ngoài ra, Rồng Bạch Kim còn chia sẻ các kinh nghiệm, bí kíp soi cầu miễn phí, giúp người chơi tối ưu hóa chiến lược, tăng khả năng trúng lớn và hạn chế rủi ro.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 4T Hẻm D18, Tổ 18, Bình Chánh, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0324567878. 
 
-.. toctree::
+Email: info@rongbachkimx.com. 
 
-   usage
-   api
+Website: https://rongbachkimx.com/ 
+
+#rongbachkim #trangchurongbachkim #dangkyrongbachkim #dangnhaprongbachkim #linkrongbachkim
